@@ -1,6 +1,6 @@
 # **Wine Project**
 
-![Wine Glasses](/images/red_and_white.jpg)
+![Wine Glasses](red_and_white.jpg)
 
 ## **Table of Contents**
 
