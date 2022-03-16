@@ -6,8 +6,8 @@
 
 1. Source Data
 
-- [Red Wine Data](https://github.com/C-Atwood/Wine_Quality_Study/blob/main/Source_Data/winequality-red.csv)
-- [White Wine Data](https://github.com/C-Atwood/Wine_Quality_Study/blob/main/Source_Data/winequality-white.csv)
+- [Red Wine Data](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv)
+- [White Wine Data](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv)
 
 2. Notebooks
 
