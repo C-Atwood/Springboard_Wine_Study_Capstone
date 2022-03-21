@@ -20,3 +20,4 @@
 3. Documents
 
 - [Final Report](https://github.com/C-Atwood/Wine_Quality_Study/blob/main/Wine_Quality_Final_Report.pdf)
+- [Wine Quality Presentation](https://github.com/C-Atwood/Wine_Quality_Study/blob/main/Wine_Quality_Study_Presentation.pdf)
